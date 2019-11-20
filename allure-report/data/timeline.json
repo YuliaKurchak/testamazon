@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Yulias-MacBook-Pro.local",
+    "children" : [ {
+      "name" : "1194-MainThread",
+      "children" : [ {
+        "name" : "test_title",
+        "uid" : "714090945499cb95",
+        "parentUid" : "0eb1cad8ab16d991f89e3d91ff5a638d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1574213785168,
+          "stop" : 1574213785528,
+          "duration" : 360
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search_airmax",
+        "uid" : "f7dd67e39f5bf60b",
+        "parentUid" : "0eb1cad8ab16d991f89e3d91ff5a638d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1574213779151,
+          "stop" : 1574213779609,
+          "duration" : 458
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search",
+        "uid" : "12439777a6fe5557",
+        "parentUid" : "0eb1cad8ab16d991f89e3d91ff5a638d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1574213782235,
+          "stop" : 1574213782578,
+          "duration" : 343
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0eb1cad8ab16d991f89e3d91ff5a638d"
+    } ],
+    "uid" : "a01eaf5551b5d61dc68dc77ae22554a6"
+  } ]
+}

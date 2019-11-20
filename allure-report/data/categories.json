@@ -1,0 +1,52 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 'Robot Check' == 'Amazon.com: ..., DVDs & more'\n  - Robot Check\n  + Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more",
+      "children" : [ {
+        "name" : "test_search_airmax",
+        "uid" : "f7dd67e39f5bf60b",
+        "parentUid" : "bb4d148482c9516530d31e96066b8a21",
+        "status" : "failed",
+        "time" : {
+          "start" : 1574213779151,
+          "stop" : 1574213779609,
+          "duration" : 458
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search",
+        "uid" : "12439777a6fe5557",
+        "parentUid" : "bb4d148482c9516530d31e96066b8a21",
+        "status" : "failed",
+        "time" : {
+          "start" : 1574213782235,
+          "stop" : 1574213782578,
+          "duration" : 343
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_title",
+        "uid" : "714090945499cb95",
+        "parentUid" : "bb4d148482c9516530d31e96066b8a21",
+        "status" : "failed",
+        "time" : {
+          "start" : 1574213785168,
+          "stop" : 1574213785528,
+          "duration" : 360
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bb4d148482c9516530d31e96066b8a21"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
